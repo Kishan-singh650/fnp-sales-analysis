@@ -4,6 +4,11 @@ This repository contains a **Sales Analysis Dashboard** created using Excel/Powe
 The dashboard provides actionable insights into sales performance, customer behavior, and revenue distribution across different occasions, months, and product categories.  
 
 ---
+## 🖼️ Dashboard Screenshot  
+
+![Sales Analysis Dashboard](./Screenshot%202025-07-30%20152956.png)  
+
+---
 
 ## 🚀 Project Overview  
 
@@ -24,12 +29,6 @@ This helps businesses optimize sales strategies, plan seasonal campaigns, and im
 - **Order Summary**: Total number of orders (1000 in this case).  
 - **Product Insights**: Performance of different product categories like cakes, flowers, etc.  
 - **Interactive Dashboard**: Clean and visually appealing representation of data.  
-
----
-
-## 🖼️ Dashboard Screenshot  
-
-![Sales Analysis Dashboard](./Screenshot%202025-07-30%20152956.png)  
 
 ---
 
