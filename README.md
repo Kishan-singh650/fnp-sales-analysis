@@ -29,7 +29,7 @@ This helps businesses optimize sales strategies, plan seasonal campaigns, and im
 
 ## 🖼️ Dashboard Screenshot  
 
-![Sales Analysis Dashboard](./Screenshot%202025-07-30%20152928.png)  
+![Sales Analysis Dashboard](./Screenshot%202025-07-30%20152956.png)  
 
 ---
 
@@ -46,31 +46,3 @@ This helps businesses optimize sales strategies, plan seasonal campaigns, and im
 
 - **Tool Used**: Excel / Power BI (mention what you used)  
 - **Data**: Sales transaction dataset (synthetic or real, specify if possible)  
-- **Visualization**: Charts & Graphs for revenue analysis  
-
----
-
-## 🤝 Connect with Me  
-
-Let’s connect and discuss more about Data Analytics & Dashboarding:  
-
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-id/)  
-- 📧 Email: *your-email@example.com*  
-
----
-
-## 👨‍💻 Author  
-
-**Kishan Singh**  
-
----
-
-## ⭐ Contributing  
-
-Contributions are welcome! If you have suggestions to improve the dashboard or add more insights, feel free to fork this repo and create a pull request.  
-
----
-
-## 📌 License  
-
-This project is licensed under the MIT License - feel free to use and modify.  
